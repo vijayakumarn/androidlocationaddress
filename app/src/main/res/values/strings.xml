@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LocationAddress</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_location_data_provided">No location provided!!</string>
+    <string name="service_not_available">GeoCoding Service not available !!</string>
+    <string name="invalid_lat_long_specified">Invalid latitude/longitude specified !!</string>
+    <string name="no_address_found">No address found !!</string>
+    <string name="address_found">Address found successfully.</string>
+    <string name="fetch_address">Fetch Address</string>
+    <string name="googleapiclient_conn_failed">GoogleApiClient connection failed !!</string>
+    <string name="googleapiclient_conn_susp">GoogleApiClient connection suspended ! Connecting again ...</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationAddress\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationAddress\app\build\intermediates\pre-dexed\debug\classes-58c7d149f00ec8af11aad97cc13b20dbd50083b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationAddress\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationAddress\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-03130ee31f5a3c81e9084a97a96e5685fddf0356.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationAddress\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationAddress\app\build\intermediates\pre-dexed\debug\classes-0469d87f0626d5ae7868bde0e8112f3e14d3ed0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AndroidStudioProjects\LocationAddress\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationAddress\app\build\intermediates\pre-dexed\debug\classes-0ab82d7ee6a435659aec55e6554befce470df28c.jar" />
+    </item>
+    <item
+        jar="C:\Users\vijaykumarn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\vijaykumarn\AndroidStudioProjects\LocationAddress\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-e576839b5e42576beb8fe87d2da09927bdeef343.jar" />
+    </item>
+
+</items>
